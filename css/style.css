@@ -39,6 +39,7 @@ main {
 
 
 .entrada, .salida {
+    border: 2px solid black;
     height: 70%;
     width: 50%;
     margin: 3%;
