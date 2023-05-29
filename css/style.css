@@ -39,7 +39,6 @@ main {
 
 
 .entrada, .salida {
-    border: 2px solid black;
     height: 70%;
     width: 50%;
     margin: 3%;
@@ -76,7 +75,7 @@ p.salida {
 }
 
 textarea {
-    border: 0;
+    border: 2px solid black;
     resize: none;
     width: 85%;
     height: 100%;
