@@ -81,6 +81,7 @@ textarea {
     height: 100%;
     background: none;
     margin-bottom: 2%;
+    padding: 15;
 }
 
 #encriptar:active, #desencriptar:active, #copiar:active {
