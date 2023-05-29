@@ -6,6 +6,10 @@
     font-family: Helvetica, Arial,sans-serif;
 }
 
+img {
+    width: 80%;
+}
+
 body {
     background: linear-gradient(90deg, rgba(0, 89, 255, 0.25) 25%,
      rgb(0, 140, 255) 60%);
